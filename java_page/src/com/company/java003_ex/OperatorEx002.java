@@ -6,7 +6,7 @@ public class OperatorEx002 {
 
 	public static void main(String[] args) {
 		//q1-1 int형 변수 x가 3보다 크고 10보다 작을때 true인 조건식 
-		int x;
+		int x = 5;
 		System.out.println("q1:" +( x>3 && x<10));
 		
 		// q1-2 char형 변수 ch가 'a' 또는 'A'일때   true인 조건식 
