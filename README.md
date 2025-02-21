@@ -42,5 +42,13 @@ String = "if의 다 걸리지 않은 조건들의 문장쓰기";
 문자열+숫자=문자열
 
 ------
+20250221
+for:  {} , 변수, for()
+System.out.print(java + 1);
+System.out.print(java + 2);
+System.out.print(java + 3);
+
+*주말에 업그레이드 풀어보기
+*bank 문제 다시 풀어보기
 
 
